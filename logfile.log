@@ -1,0 +1,312 @@
+2021-02-11 18:03:43,421 INFO  [Log] Opening Browser 
+2021-02-11 18:03:44,789 INFO  [Log] Chrome browser started 
+2021-02-11 18:03:44,935 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:03:44,935 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:03:44,935 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-11 18:03:44,936 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:03:44,936 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:03:44,948 INFO  [Log] Navigating to URL 
+2021-02-11 18:03:47,403 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:03:47,403 INFO  [Log] X 
+2021-02-11 18:03:47,403 INFO  [Log] X 
+2021-02-11 18:03:47,403 INFO  [Log] X 
+2021-02-11 18:03:47,403 INFO  [Log] X 
+2021-02-11 18:03:47,403 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:03:52,508 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:03:52,508 INFO  [Log] X 
+2021-02-11 18:03:52,508 INFO  [Log] X 
+2021-02-11 18:03:52,508 INFO  [Log] X 
+2021-02-11 18:03:52,508 INFO  [Log] X 
+2021-02-11 18:03:52,508 INFO  [Log] Entering the text in UserName 
+2021-02-11 18:03:52,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:03:52,760 INFO  [Log] X 
+2021-02-11 18:03:52,760 INFO  [Log] X 
+2021-02-11 18:03:52,760 INFO  [Log] X 
+2021-02-11 18:03:52,760 INFO  [Log] X 
+2021-02-11 18:03:52,760 INFO  [Log] Entering the text in Password 
+2021-02-11 18:03:52,953 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:03:52,953 INFO  [Log] X 
+2021-02-11 18:03:52,953 INFO  [Log] X 
+2021-02-11 18:03:52,953 INFO  [Log] X 
+2021-02-11 18:03:52,953 INFO  [Log] X 
+2021-02-11 18:03:52,953 INFO  [Log] Clicking on Webelement logIn_Button 
+2021-02-11 18:04:23,353 ERROR [Log] Not able to click --- Expected condition failed: waiting for element to be clickable: By.xpath: =//span[text()='Login']/parent::button (tried for 30 second(s) with 500 milliseconds interval) 
+2021-02-11 18:04:24,130 INFO  [Log] Closing the browser 
+2021-02-11 18:04:24,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:04:24,291 INFO  [Log] X 
+2021-02-11 18:04:24,291 INFO  [Log] X 
+2021-02-11 18:04:24,291 INFO  [Log] X 
+2021-02-11 18:04:24,292 INFO  [Log] X 
+2021-02-11 18:04:24,292 INFO  [Log] Opening Browser 
+2021-02-11 18:04:25,232 INFO  [Log] Chrome browser started 
+2021-02-11 18:04:25,367 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:04:25,367 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:04:25,367 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_04       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-11 18:04:25,367 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:04:25,367 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:04:25,369 INFO  [Log] Navigating to URL 
+2021-02-11 18:04:30,751 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:04:30,751 INFO  [Log] X 
+2021-02-11 18:04:30,751 INFO  [Log] X 
+2021-02-11 18:04:30,752 INFO  [Log] X 
+2021-02-11 18:04:30,753 INFO  [Log] X 
+2021-02-11 18:04:30,753 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:04:35,816 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:04:35,817 INFO  [Log] X 
+2021-02-11 18:04:35,817 INFO  [Log] X 
+2021-02-11 18:04:35,817 INFO  [Log] X 
+2021-02-11 18:04:35,817 INFO  [Log] X 
+2021-02-11 18:04:35,817 INFO  [Log] Clicking on Webelement mens 
+2021-02-11 18:04:37,611 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:04:37,614 INFO  [Log] X 
+2021-02-11 18:04:37,614 INFO  [Log] X 
+2021-02-11 18:04:37,616 INFO  [Log] X 
+2021-02-11 18:04:37,616 INFO  [Log] X 
+2021-02-11 18:06:32,296 INFO  [Log] Opening Browser 
+2021-02-11 18:06:33,658 INFO  [Log] Chrome browser started 
+2021-02-11 18:06:33,798 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:06:33,798 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:06:33,798 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-11 18:06:33,798 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:06:33,798 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:06:33,806 INFO  [Log] Navigating to URL 
+2021-02-11 18:06:35,913 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:35,913 INFO  [Log] X 
+2021-02-11 18:06:35,913 INFO  [Log] X 
+2021-02-11 18:06:35,913 INFO  [Log] X 
+2021-02-11 18:06:35,913 INFO  [Log] X 
+2021-02-11 18:06:35,914 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:06:41,012 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:41,012 INFO  [Log] X 
+2021-02-11 18:06:41,012 INFO  [Log] X 
+2021-02-11 18:06:41,012 INFO  [Log] X 
+2021-02-11 18:06:41,012 INFO  [Log] X 
+2021-02-11 18:06:41,012 INFO  [Log] Entering the text in UserName 
+2021-02-11 18:06:41,260 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:41,260 INFO  [Log] X 
+2021-02-11 18:06:41,260 INFO  [Log] X 
+2021-02-11 18:06:41,260 INFO  [Log] X 
+2021-02-11 18:06:41,260 INFO  [Log] X 
+2021-02-11 18:06:41,260 INFO  [Log] Entering the text in Password 
+2021-02-11 18:06:41,442 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:41,442 INFO  [Log] X 
+2021-02-11 18:06:41,442 INFO  [Log] X 
+2021-02-11 18:06:41,442 INFO  [Log] X 
+2021-02-11 18:06:41,442 INFO  [Log] X 
+2021-02-11 18:06:41,442 INFO  [Log] Clicking on Webelement logIn_Button 
+2021-02-11 18:06:41,602 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:41,602 INFO  [Log] X 
+2021-02-11 18:06:41,602 INFO  [Log] X 
+2021-02-11 18:06:41,602 INFO  [Log] X 
+2021-02-11 18:06:41,602 INFO  [Log] X 
+2021-02-11 18:06:41,602 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:06:46,680 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:46,680 INFO  [Log] X 
+2021-02-11 18:06:46,680 INFO  [Log] X 
+2021-02-11 18:06:46,680 INFO  [Log] X 
+2021-02-11 18:06:46,680 INFO  [Log] X 
+2021-02-11 18:06:46,680 INFO  [Log] Entering the text in enterQuery 
+2021-02-11 18:06:46,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:46,845 INFO  [Log] X 
+2021-02-11 18:06:46,845 INFO  [Log] X 
+2021-02-11 18:06:46,845 INFO  [Log] X 
+2021-02-11 18:06:46,845 INFO  [Log] X 
+2021-02-11 18:06:46,845 INFO  [Log] Clicking on Webelement search 
+2021-02-11 18:06:47,029 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:47,030 INFO  [Log] X 
+2021-02-11 18:06:47,030 INFO  [Log] X 
+2021-02-11 18:06:47,030 INFO  [Log] X 
+2021-02-11 18:06:47,030 INFO  [Log] X 
+2021-02-11 18:06:47,030 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:06:52,083 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:52,083 INFO  [Log] X 
+2021-02-11 18:06:52,083 INFO  [Log] X 
+2021-02-11 18:06:52,083 INFO  [Log] X 
+2021-02-11 18:06:52,083 INFO  [Log] X 
+2021-02-11 18:06:52,083 INFO  [Log] Scroll to Element 
+2021-02-11 18:06:52,190 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:52,190 INFO  [Log] X 
+2021-02-11 18:06:52,190 INFO  [Log] X 
+2021-02-11 18:06:52,190 INFO  [Log] X 
+2021-02-11 18:06:52,190 INFO  [Log] X 
+2021-02-11 18:06:52,190 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:06:57,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:57,246 INFO  [Log] X 
+2021-02-11 18:06:57,246 INFO  [Log] X 
+2021-02-11 18:06:57,246 INFO  [Log] X 
+2021-02-11 18:06:57,246 INFO  [Log] X 
+2021-02-11 18:06:57,246 INFO  [Log] Entering the text in enterBrand 
+2021-02-11 18:06:57,436 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:06:57,436 INFO  [Log] X 
+2021-02-11 18:06:57,436 INFO  [Log] X 
+2021-02-11 18:06:57,436 INFO  [Log] X 
+2021-02-11 18:06:57,436 INFO  [Log] X 
+2021-02-11 18:06:57,436 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:07:02,489 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:07:02,489 INFO  [Log] X 
+2021-02-11 18:07:02,489 INFO  [Log] X 
+2021-02-11 18:07:02,489 INFO  [Log] X 
+2021-02-11 18:07:02,489 INFO  [Log] X 
+2021-02-11 18:07:02,489 INFO  [Log] Clicking on Webelement selectBrand 
+2021-02-11 18:07:03,639 ERROR [Log] Not able to click --- element click intercepted: Element <div class="_24_Dny"></div> is not clickable at point (31, 43). Other element would receive the click: <div class="_1TmfNK"></div>
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MACPRO101.local', ip: 'fe80:0:0:0:8fe:5bf9:7546:501d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: /var/folders/1c/43gvj5bx1f7...}, goog:chromeOptions: {debuggerAddress: localhost:60367}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c967f0564827cea8d5f2e14af81611ec 
+2021-02-11 18:07:04,576 INFO  [Log] Closing the browser 
+2021-02-11 18:07:04,714 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:07:04,714 INFO  [Log] X 
+2021-02-11 18:07:04,714 INFO  [Log] X 
+2021-02-11 18:07:04,714 INFO  [Log] X 
+2021-02-11 18:07:04,714 INFO  [Log] X 
+2021-02-11 18:07:04,714 INFO  [Log] Opening Browser 
+2021-02-11 18:07:05,712 INFO  [Log] Chrome browser started 
+2021-02-11 18:07:05,828 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:07:05,828 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:07:05,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_04       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-11 18:07:05,828 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:07:05,828 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:07:05,829 INFO  [Log] Navigating to URL 
+2021-02-11 18:07:10,384 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:07:10,384 INFO  [Log] X 
+2021-02-11 18:07:10,384 INFO  [Log] X 
+2021-02-11 18:07:10,384 INFO  [Log] X 
+2021-02-11 18:07:10,384 INFO  [Log] X 
+2021-02-11 18:07:10,385 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:07:15,458 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:07:15,458 INFO  [Log] X 
+2021-02-11 18:07:15,458 INFO  [Log] X 
+2021-02-11 18:07:15,458 INFO  [Log] X 
+2021-02-11 18:07:15,458 INFO  [Log] X 
+2021-02-11 18:07:15,458 INFO  [Log] Clicking on Webelement mens 
+2021-02-11 18:07:17,106 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:07:17,106 INFO  [Log] X 
+2021-02-11 18:07:17,106 INFO  [Log] X 
+2021-02-11 18:07:17,106 INFO  [Log] X 
+2021-02-11 18:07:17,106 INFO  [Log] X 
+2021-02-11 18:15:36,130 INFO  [Log] Opening Browser 
+2021-02-11 18:15:37,557 INFO  [Log] Chrome browser started 
+2021-02-11 18:15:37,709 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:15:37,709 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:15:37,709 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-11 18:15:37,709 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:15:37,709 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:15:37,717 INFO  [Log] Navigating to URL 
+2021-02-11 18:15:39,838 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:39,838 INFO  [Log] X 
+2021-02-11 18:15:39,838 INFO  [Log] X 
+2021-02-11 18:15:39,838 INFO  [Log] X 
+2021-02-11 18:15:39,838 INFO  [Log] X 
+2021-02-11 18:15:39,838 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:15:44,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:44,958 INFO  [Log] X 
+2021-02-11 18:15:44,958 INFO  [Log] X 
+2021-02-11 18:15:44,958 INFO  [Log] X 
+2021-02-11 18:15:44,958 INFO  [Log] X 
+2021-02-11 18:15:44,958 INFO  [Log] Entering the text in UserName 
+2021-02-11 18:15:45,214 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:45,214 INFO  [Log] X 
+2021-02-11 18:15:45,214 INFO  [Log] X 
+2021-02-11 18:15:45,214 INFO  [Log] X 
+2021-02-11 18:15:45,214 INFO  [Log] X 
+2021-02-11 18:15:45,215 INFO  [Log] Entering the text in Password 
+2021-02-11 18:15:45,407 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:45,407 INFO  [Log] X 
+2021-02-11 18:15:45,407 INFO  [Log] X 
+2021-02-11 18:15:45,408 INFO  [Log] X 
+2021-02-11 18:15:45,408 INFO  [Log] X 
+2021-02-11 18:15:45,408 INFO  [Log] Clicking on Webelement logIn_Button 
+2021-02-11 18:15:45,571 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:45,571 INFO  [Log] X 
+2021-02-11 18:15:45,571 INFO  [Log] X 
+2021-02-11 18:15:45,571 INFO  [Log] X 
+2021-02-11 18:15:45,572 INFO  [Log] X 
+2021-02-11 18:15:45,572 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:15:50,660 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:50,660 INFO  [Log] X 
+2021-02-11 18:15:50,660 INFO  [Log] X 
+2021-02-11 18:15:50,660 INFO  [Log] X 
+2021-02-11 18:15:50,660 INFO  [Log] X 
+2021-02-11 18:15:50,660 INFO  [Log] Entering the text in enterQuery 
+2021-02-11 18:15:50,853 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:50,853 INFO  [Log] X 
+2021-02-11 18:15:50,853 INFO  [Log] X 
+2021-02-11 18:15:50,853 INFO  [Log] X 
+2021-02-11 18:15:50,853 INFO  [Log] X 
+2021-02-11 18:15:50,854 INFO  [Log] Clicking on Webelement search 
+2021-02-11 18:15:51,017 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:51,018 INFO  [Log] X 
+2021-02-11 18:15:51,018 INFO  [Log] X 
+2021-02-11 18:15:51,018 INFO  [Log] X 
+2021-02-11 18:15:51,018 INFO  [Log] X 
+2021-02-11 18:15:51,018 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:15:56,082 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:56,082 INFO  [Log] X 
+2021-02-11 18:15:56,082 INFO  [Log] X 
+2021-02-11 18:15:56,082 INFO  [Log] X 
+2021-02-11 18:15:56,082 INFO  [Log] X 
+2021-02-11 18:15:56,083 INFO  [Log] Scroll to Element 
+2021-02-11 18:15:56,196 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:15:56,197 INFO  [Log] X 
+2021-02-11 18:15:56,197 INFO  [Log] X 
+2021-02-11 18:15:56,197 INFO  [Log] X 
+2021-02-11 18:15:56,197 INFO  [Log] X 
+2021-02-11 18:15:56,197 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:16:01,257 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:01,257 INFO  [Log] X 
+2021-02-11 18:16:01,257 INFO  [Log] X 
+2021-02-11 18:16:01,257 INFO  [Log] X 
+2021-02-11 18:16:01,257 INFO  [Log] X 
+2021-02-11 18:16:01,257 INFO  [Log] Entering the text in enterBrand 
+2021-02-11 18:16:01,512 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:01,512 INFO  [Log] X 
+2021-02-11 18:16:01,512 INFO  [Log] X 
+2021-02-11 18:16:01,512 INFO  [Log] X 
+2021-02-11 18:16:01,513 INFO  [Log] X 
+2021-02-11 18:16:01,513 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:16:06,570 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:06,571 INFO  [Log] X 
+2021-02-11 18:16:06,571 INFO  [Log] X 
+2021-02-11 18:16:06,571 INFO  [Log] X 
+2021-02-11 18:16:06,571 INFO  [Log] X 
+2021-02-11 18:16:06,571 INFO  [Log] Clicking on Webelement selectBrand 
+2021-02-11 18:16:07,714 ERROR [Log] Not able to click --- element click intercepted: Element <div class="_24_Dny"></div> is not clickable at point (31, 43). Other element would receive the click: <div class="_1TmfNK"></div>
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MACPRO101.local', ip: 'fe80:0:0:0:8fe:5bf9:7546:501d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: /var/folders/1c/43gvj5bx1f7...}, goog:chromeOptions: {debuggerAddress: localhost:60875}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83341433e152bcb1bdbc70305865bbaf 
+2021-02-11 18:16:08,621 INFO  [Log] Closing the browser 
+2021-02-11 18:16:08,758 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:08,758 INFO  [Log] X 
+2021-02-11 18:16:08,758 INFO  [Log] X 
+2021-02-11 18:16:08,758 INFO  [Log] X 
+2021-02-11 18:16:08,758 INFO  [Log] X 
+2021-02-11 18:16:08,758 INFO  [Log] Opening Browser 
+2021-02-11 18:16:09,641 INFO  [Log] Chrome browser started 
+2021-02-11 18:16:09,791 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:16:09,791 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:16:09,791 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_04       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-11 18:16:09,791 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:16:09,791 INFO  [Log] **************************************************************************************** 
+2021-02-11 18:16:09,792 INFO  [Log] Navigating to URL 
+2021-02-11 18:16:12,686 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:12,686 INFO  [Log] X 
+2021-02-11 18:16:12,686 INFO  [Log] X 
+2021-02-11 18:16:12,686 INFO  [Log] X 
+2021-02-11 18:16:12,686 INFO  [Log] X 
+2021-02-11 18:16:12,686 INFO  [Log] Wait for 5 seconds 
+2021-02-11 18:16:17,747 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:17,747 INFO  [Log] X 
+2021-02-11 18:16:17,747 INFO  [Log] X 
+2021-02-11 18:16:17,747 INFO  [Log] X 
+2021-02-11 18:16:17,747 INFO  [Log] X 
+2021-02-11 18:16:17,748 INFO  [Log] Clicking on Webelement mens 
+2021-02-11 18:16:44,308 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-11 18:16:44,308 INFO  [Log] X 
+2021-02-11 18:16:44,308 INFO  [Log] X 
+2021-02-11 18:16:44,309 INFO  [Log] X 
+2021-02-11 18:16:44,309 INFO  [Log] X 
